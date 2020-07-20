@@ -1,0 +1,5 @@
+name: BungeeMessage
+version: 1.0.0
+author: Torm
+description: Send messages between Bukkit and Bungee.
+main: no.hyp.bungeemessage.bungee.BungeeMessage

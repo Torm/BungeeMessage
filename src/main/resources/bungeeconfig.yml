@@ -1,0 +1,5 @@
+# Configuration version. Do not change.
+version: 1
+
+# Port to run message server on.
+port: 25564

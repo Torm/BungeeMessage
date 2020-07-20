@@ -1,0 +1,16 @@
+# BungeeMessage configuration.
+
+# Configuration version. Do not change.
+version: 1
+
+# Unique name of this server.
+name: Survival
+
+# Bungee servers to connect to. Most networks use one Bungee server.
+connections:
+  proxy:
+    host: localhost
+    port: 25564
+# second:
+#   host: localhost
+#   port: 25563
